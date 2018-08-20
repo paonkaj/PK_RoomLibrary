@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+// on one month ago
     private void doYourUpdate() {
         // TODO implement a refresh
         mySwipeRefreshLayout.setRefreshing(false); // Disables the refresh icon
